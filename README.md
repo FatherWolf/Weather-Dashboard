@@ -21,5 +21,5 @@ This site is used to check the weather for specific locations. It has an input f
 
 ### Links
 
-[Repo] (https://github.com/FatherWolf/Password-Generator)
-[Password-Generator] https://fatherwolf.github.io/Password-Generator/
+[Repo] (https://github.com/FatherWolf/Weather-Dashboard)
+[Password-Generator] (https://fatherwolf.github.io/Weather-Dashboard/)
