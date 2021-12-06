@@ -10,6 +10,8 @@
       integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
       crossorigin="anonymous"
     />
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
     <title>Document</title>
   </head>
   <body>
@@ -22,7 +24,7 @@
       <section class="row justify-content-center">
         <div class="col-3">
           <input type="text" placeholder="City Name" />
-          <button type="button" class="btn btn-danger">click me</button>
+          <button id="search" class="btn btn-danger">click me</button>
         </div>
       </section>
 
@@ -30,6 +32,7 @@
         <article class="row justify-content-center">
           <div class="col-3 col-md-3">
             <h1>Results</h1>
+            <ul></ul>
           </div>
         </article>
       </section>
